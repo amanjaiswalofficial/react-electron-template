@@ -12,7 +12,7 @@ Once done, 3 simple commands to produce a linux based desktop app executable
 ```
 
 ### To test in Development:
-Run `npm run start` in 1 terminal to start react development server
+Run `npm run start` in 1 terminal to start react development server. 
 Then in a different instance of terminal, run `npm run start-electron` to see the react-content in an electron window.
 
 ### Note:
